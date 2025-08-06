@@ -1,5 +1,5 @@
 # RAG
-# 🚀 How to Run the RAG-based FastAPI Project
+#  How to Run the RAG-based FastAPI Project
 This guide explains how to run the Retrieval-Augmented Generation (RAG) FastAPI app on your local machine using **VS Code** or any terminal.
 ## 🔧 Prerequisites
 !. The things you should need for the project
